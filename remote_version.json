@@ -1,6 +1,10 @@
 {
   "version": "1.0",
-  "url": "https://www.dropbox.com/scl/fi/x8qyx3m7rdm6on3st23ik/MKP_test2.zip?rlkey=lfa5tquhasysb4ula080engpf&st=2vg1lthb&dl=1"
-  
+  "url": "https://www.dropbox.com/scl/fi/x8qyx3m7rdm6on3st23ik/MKP_test2.zip?rlkey=lfa5tquhasysb4ula080engpf&st=2vg1lthb&dl=1",
+  "changelog": [
+    "🛠 Se mejoró el rendimiento general.",
+    "🐛 Corregidos errores de audio.",
+    "🎨 Se actualizó el menú principal."
+  ]
 
 }
